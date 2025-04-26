@@ -22,7 +22,7 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # title of site appears in banner
 title: Polaroid Autobiography
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: a personal visual autobiography, documenting self-image over the years
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "this digital collection is to serve as a visual autobiography, chronicling personal growth, change, and self-perception over time. By using Polaroid photography—a medium known for its immediacy, physicality, and nostalgic quality—the collection captures a raw and unfiltered representation of the self across different years."
@@ -34,7 +34,7 @@ author: Brenna Schultz
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: polaroid_autobiography
+metadata: polaroid_autobiography_data
 
 ##########
 # Site/Organization Branding 
